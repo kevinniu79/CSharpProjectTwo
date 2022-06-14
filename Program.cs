@@ -18,21 +18,19 @@ while(checkerTwo){
     Console.WriteLine("Please input what you want to do");
         String option = Console.ReadLine();
         int finalOption = Convert.ToInt32(option);
-    
-if(finalOption == 3){
-    for(int i = 0; i < arlist.Count; i++){
-        object t = arlist[i];
-        int num = Convert.ToInt32(t);
-        if(num%2 == 1){
-            Console.WriteLine(arlist[i]);
-        }
-    }
+      if(finalOption == 1){
+           for (int i = 0; i < arlist.Count; i++)
+{
+   
+   Console.WriteLine(arlist[i]); 
 }
-if(finalOption == 4){
+        }
+
+     if(finalOption == 2){
     for(int i = 0; i < arlist.Count; i++){
         object t = arlist[i];
         int num = Convert.ToInt32(t);
-        if(num%5 == 0){
+        if(num%2 == 0){
             Console.WriteLine(arlist[i]);
         }
     }
