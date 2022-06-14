@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/CSharpProjectTwo.csproj": {}
+    "/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/CSharpProjectTwo.csproj": {}
   },
   "projects": {
-    "/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/CSharpProjectTwo.csproj": {
+    "/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/CSharpProjectTwo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/CSharpProjectTwo.csproj",
+        "projectUniqueName": "/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/CSharpProjectTwo.csproj",
         "projectName": "CSharpProjectTwo",
-        "projectPath": "/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/CSharpProjectTwo.csproj",
-        "packagesPath": "/Users/mti/.nuget/packages/",
-        "outputPath": "/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/",
+        "projectPath": "/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/CSharpProjectTwo.csproj",
+        "packagesPath": "/Users/siratmokha/.nuget/packages/",
+        "outputPath": "/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mti/.nuget/NuGet/NuGet.Config"
+          "/Users/siratmokha/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

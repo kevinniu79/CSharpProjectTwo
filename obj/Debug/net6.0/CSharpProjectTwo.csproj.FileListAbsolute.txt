@@ -13,18 +13,18 @@ C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/obj/Debug/n
 C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.pdb
 C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.genruntimeconfig.cache
 C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/obj/Debug/net6.0/ref/CSharpProjectTwo.dll
-/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.csproj.AssemblyReference.cache
-/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.GeneratedMSBuildEditorConfig.editorconfig
-/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.AssemblyInfoInputs.cache
-/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.AssemblyInfo.cs
-/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.csproj.CoreCompileInputs.cache
-/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.dll
-/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/refint/CSharpProjectTwo.dll
-/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.pdb
-/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo
-/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo.deps.json
-/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo.runtimeconfig.json
-/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo.dll
-/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo.pdb
-/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.genruntimeconfig.cache
-/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/ref/CSharpProjectTwo.dll
+/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.csproj.AssemblyReference.cache
+/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.AssemblyInfoInputs.cache
+/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.AssemblyInfo.cs
+/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.csproj.CoreCompileInputs.cache
+/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.dll
+/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/obj/Debug/net6.0/refint/CSharpProjectTwo.dll
+/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.pdb
+/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo
+/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo.deps.json
+/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo.runtimeconfig.json
+/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo.dll
+/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo.pdb
+/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.genruntimeconfig.cache
+/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/obj/Debug/net6.0/ref/CSharpProjectTwo.dll
