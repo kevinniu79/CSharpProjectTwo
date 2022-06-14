@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nren2\\Documents\\Visual Studio 2019\\CTW2022\\CSharpProjectTwo\\CSharpProjectTwo.csproj": {}
+    "/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/CSharpProjectTwo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nren2\\Documents\\Visual Studio 2019\\CTW2022\\CSharpProjectTwo\\CSharpProjectTwo.csproj": {
+    "/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/CSharpProjectTwo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nren2\\Documents\\Visual Studio 2019\\CTW2022\\CSharpProjectTwo\\CSharpProjectTwo.csproj",
+        "projectUniqueName": "/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/CSharpProjectTwo.csproj",
         "projectName": "CSharpProjectTwo",
-        "projectPath": "C:\\Users\\nren2\\Documents\\Visual Studio 2019\\CTW2022\\CSharpProjectTwo\\CSharpProjectTwo.csproj",
-        "packagesPath": "C:\\Users\\nren2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nren2\\Documents\\Visual Studio 2019\\CTW2022\\CSharpProjectTwo\\obj\\",
+        "projectPath": "/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/CSharpProjectTwo.csproj",
+        "packagesPath": "/Users/siratmokha/.nuget/packages/",
+        "outputPath": "/Users/siratmokha/Desktop/GitRepo/Project2/CSharpProjectTwo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nren2\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/siratmokha/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
         }
       }
     }
