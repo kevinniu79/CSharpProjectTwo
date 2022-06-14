@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kevin\\ctw2022\\repo\\CSharpProjectTwo\\CSharpProjectTwo.csproj": {}
+    "C:\\Users\\nren2\\Documents\\Visual Studio 2019\\CTW2022\\CSharpProjectTwo\\CSharpProjectTwo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kevin\\ctw2022\\repo\\CSharpProjectTwo\\CSharpProjectTwo.csproj": {
+    "C:\\Users\\nren2\\Documents\\Visual Studio 2019\\CTW2022\\CSharpProjectTwo\\CSharpProjectTwo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin\\ctw2022\\repo\\CSharpProjectTwo\\CSharpProjectTwo.csproj",
+        "projectUniqueName": "C:\\Users\\nren2\\Documents\\Visual Studio 2019\\CTW2022\\CSharpProjectTwo\\CSharpProjectTwo.csproj",
         "projectName": "CSharpProjectTwo",
-        "projectPath": "C:\\Users\\kevin\\ctw2022\\repo\\CSharpProjectTwo\\CSharpProjectTwo.csproj",
-        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin\\ctw2022\\repo\\CSharpProjectTwo\\obj\\",
+        "projectPath": "C:\\Users\\nren2\\Documents\\Visual Studio 2019\\CTW2022\\CSharpProjectTwo\\CSharpProjectTwo.csproj",
+        "packagesPath": "C:\\Users\\nren2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nren2\\Documents\\Visual Studio 2019\\CTW2022\\CSharpProjectTwo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\nren2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
