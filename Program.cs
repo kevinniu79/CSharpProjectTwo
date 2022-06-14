@@ -18,5 +18,20 @@ while(checkerTwo){
     Console.WriteLine("Please input what you want to do");
         String option = Console.ReadLine();
         int finalOption = Convert.ToInt32(option);
+   
+    if(finalOption == 5){
+        int sum = 0;
+        foreach(int i in arlist){
+            sum = sum + i;
+        }
+        Console.WriteLine("Sum: " + sum);
+    }
+    if(finalOption == 6){
+        foreach(int i in arlist){
+            if((i % 3) == 0){
+                Console.WriteLine("Divisible by 3: " + i);
+            }
+        }
+    }
     
 }

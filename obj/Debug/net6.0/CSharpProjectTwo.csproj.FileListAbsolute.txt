@@ -1,15 +1,30 @@
-C:\Users\nren2\Documents\Visual Studio 2019\CTW2022\CSharpProjectTwo\bin\Debug\net6.0\CSharpProjectTwo.exe
-C:\Users\nren2\Documents\Visual Studio 2019\CTW2022\CSharpProjectTwo\bin\Debug\net6.0\CSharpProjectTwo.deps.json
-C:\Users\nren2\Documents\Visual Studio 2019\CTW2022\CSharpProjectTwo\bin\Debug\net6.0\CSharpProjectTwo.runtimeconfig.json
-C:\Users\nren2\Documents\Visual Studio 2019\CTW2022\CSharpProjectTwo\bin\Debug\net6.0\CSharpProjectTwo.dll
-C:\Users\nren2\Documents\Visual Studio 2019\CTW2022\CSharpProjectTwo\bin\Debug\net6.0\CSharpProjectTwo.pdb
-C:\Users\nren2\Documents\Visual Studio 2019\CTW2022\CSharpProjectTwo\obj\Debug\net6.0\CSharpProjectTwo.csproj.AssemblyReference.cache
-C:\Users\nren2\Documents\Visual Studio 2019\CTW2022\CSharpProjectTwo\obj\Debug\net6.0\CSharpProjectTwo.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\nren2\Documents\Visual Studio 2019\CTW2022\CSharpProjectTwo\obj\Debug\net6.0\CSharpProjectTwo.AssemblyInfoInputs.cache
-C:\Users\nren2\Documents\Visual Studio 2019\CTW2022\CSharpProjectTwo\obj\Debug\net6.0\CSharpProjectTwo.AssemblyInfo.cs
-C:\Users\nren2\Documents\Visual Studio 2019\CTW2022\CSharpProjectTwo\obj\Debug\net6.0\CSharpProjectTwo.csproj.CoreCompileInputs.cache
-C:\Users\nren2\Documents\Visual Studio 2019\CTW2022\CSharpProjectTwo\obj\Debug\net6.0\CSharpProjectTwo.dll
-C:\Users\nren2\Documents\Visual Studio 2019\CTW2022\CSharpProjectTwo\obj\Debug\net6.0\refint\CSharpProjectTwo.dll
-C:\Users\nren2\Documents\Visual Studio 2019\CTW2022\CSharpProjectTwo\obj\Debug\net6.0\CSharpProjectTwo.pdb
-C:\Users\nren2\Documents\Visual Studio 2019\CTW2022\CSharpProjectTwo\obj\Debug\net6.0\CSharpProjectTwo.genruntimeconfig.cache
-C:\Users\nren2\Documents\Visual Studio 2019\CTW2022\CSharpProjectTwo\obj\Debug\net6.0\ref\CSharpProjectTwo.dll
+C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo.exe
+C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo.deps.json
+C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo.runtimeconfig.json
+C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo.dll
+C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo.pdb
+C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.csproj.AssemblyReference.cache
+C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.AssemblyInfoInputs.cache
+C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.AssemblyInfo.cs
+C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.csproj.CoreCompileInputs.cache
+C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.dll
+C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/obj/Debug/net6.0/refint/CSharpProjectTwo.dll
+C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.pdb
+C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.genruntimeconfig.cache
+C:/Users/nren2/Documents/Visual Studio 2019/CTW2022/CSharpProjectTwo/obj/Debug/net6.0/ref/CSharpProjectTwo.dll
+/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.csproj.AssemblyReference.cache
+/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.AssemblyInfoInputs.cache
+/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.AssemblyInfo.cs
+/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.csproj.CoreCompileInputs.cache
+/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.dll
+/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/refint/CSharpProjectTwo.dll
+/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.pdb
+/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo
+/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo.deps.json
+/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo.runtimeconfig.json
+/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo.dll
+/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/bin/Debug/net6.0/CSharpProjectTwo.pdb
+/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/CSharpProjectTwo.genruntimeconfig.cache
+/Users/mti/Desktop/Repos-CTW/CSharpProjectTwo/obj/Debug/net6.0/ref/CSharpProjectTwo.dll
